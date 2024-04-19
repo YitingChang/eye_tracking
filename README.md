@@ -10,12 +10,12 @@ Reference: https://www.sr-research.com/support-options/learning-resources/
 1. Start the host and display computers.
 2. In the host computer, (1) select EyeLink mode and (2) check the camera setup
 3. In the display computer:
-   - Open a terminal:
-    '''
+   - Open a terminal: \
+    ```
     conda deactivate (if in some virtual environments)
     cd Code/visualTask1  
     python3 visualTask1_YC.py
-    '''
+    ```
     - Data is saved in a txt file.
 5. To process data, open MATLAB:
     - Open processData_YC.m
